@@ -1,3 +1,0 @@
-skmb-service > [35m14:00:00.069[0;39m [34m[task-4][0;39m INFO  [userId: scheduler]  [36mc.g.s.auth.service.ScheduledTasks[0;39m - [34mPerformance(timestamp=2024-04-117 14:00:00, committedVirtualMemorySize=427412324352, totalSwapSpaceSize=5368709120, freeSwapSpaceSize=575012864, totalMemorySize=17179869184, freeMemorySize=67403776, cpuLoad=0.0, processCpuLoad=0.0, availableProcessors=10, totalMemory=140.51 MB, maxMemory=4.29 GB, freeMemory=39.59 MB)
-[0;39mskmb-service > [35m14:00:43.416[0;39m [31m[SpringApplicationShutdownHook][0;39m WARN  [userId: ]  [36mio.lettuce.core.RedisChannelHandler[0;39m - [34mConnection is already closed
-[0;39m

@@ -1,2 +1,0 @@
-skmb-service > [35m02:52:15.444[0;39m [34m[task-41983][0;39m INFO  [userId: scheduler]  [36mc.g.s.auth.service.ScheduledTasks[0;39m - [34mPerformance(timestamp=2024-04-117 02:52:15, committedVirtualMemorySize=427550572544, totalSwapSpaceSize=6442450944, freeSwapSpaceSize=853147648, totalMemorySize=17179869184, freeMemorySize=56180736, cpuLoad=0.24231021507232367, processCpuLoad=2.038687027973787E-6, availableProcessors=10, totalMemory=213.91 MB, maxMemory=4.29 GB, freeMemory=52.85 MB)
-[0;39m
